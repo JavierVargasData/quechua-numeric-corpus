@@ -1,12 +1,13 @@
-# quechua-numeric-corpus
+### quechua-numeric-corpus
 Dataset: 20,000 Números en Quechua (Estandarizado)
 Este repositorio contiene un corpus de 20,000 números escritos en Quechua, generados y validados algorítmicamente para investigación lingüística y computacional.
 
-📊 Contenido del Dataset
+### Contenido del Dataset
 Archivo: numeros_quechua_20k.csv
 Registros: 20,000 (Rango 1 a 20,000)
 Campos: numero (entero), quechua (texto normalizado).
-🧠 Investigación y Análisis
+
+## Investigación y Análisis
 Este dataset es la base de una serie de investigaciones sobre la lógica algorítmica y la eficiencia cognitiva del idioma Quechua.
 
 Puedes leer el análisis completo de estos datos aquí: 👉 El sistema numérico en Quechua: por qué es uno de los más lógicos del mundo
