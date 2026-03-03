@@ -1,4 +1,4 @@
-### quechua-numeric-corpus
+# Quechua-numeric-corpus
 Dataset: 20,000 Números en Quechua (Estandarizado)
 Este repositorio contiene un corpus de 20,000 números escritos en Quechua, generados y validados algorítmicamente para investigación lingüística y computacional.
 
