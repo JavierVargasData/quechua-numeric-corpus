@@ -12,7 +12,8 @@ Este dataset es la base de una serie de investigaciones sobre la lógica algorí
 
 Puedes leer el análisis completo de estos datos aquí: 
 
-👉 **[El sistema numérico en Quechua: por qué es uno de los más lógicos del mundo]([https://SOYQUECHUABLOG.com/EL-ENLACE-A-TU-POST](https://blog.soyquechua.org/tag/numeros/))**
+👉 **[El sistema numérico en Quechua: por qué es uno de los más lógicos del mundo]
+(https://blog.soyquechua.org/tag/numeros/)
 
 Hallazgos clave documentados en el blog:
 Regularidad Absoluta: 0% de excepciones detectadas en 20,000 casos.
