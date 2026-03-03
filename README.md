@@ -11,7 +11,9 @@ Campos: numero (entero), quechua (texto normalizado).
 Este dataset es la base de una serie de investigaciones sobre la lógica algorítmica y la eficiencia cognitiva del idioma Quechua.
 
 Puedes leer el análisis completo de estos datos aquí: 
+
 👉 **[El sistema numérico en Quechua: por qué es uno de los más lógicos del mundo]([https://SOYQUECHUABLOG.com/EL-ENLACE-A-TU-POST](https://blog.soyquechua.org/tag/numeros/))**
+
 Hallazgos clave documentados en el blog:
 Regularidad Absoluta: 0% de excepciones detectadas en 20,000 casos.
 Complejidad Logarítmica: El sistema comprime información de forma eficiente.
